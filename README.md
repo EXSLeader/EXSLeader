@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EXSLeader
+- 👀 I’m interested in Data and AI Topics
+- 🌱 I’m currently learning on various topics including Data Engineering/Science/Analysis/Viz/Governance but also am fascinated by AI, LLM's, Tree of Thoughts, Prompt Engineering, ...
+- 💞️ I’m looking to collaborate on anything that seems too complicated to be done or that starts with an impossible statu quo
+- 📫 To reach me, slide in my Dm's and maybe we'll have the chance to create something
